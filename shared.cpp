@@ -36,7 +36,7 @@ int main()
     std::cout<<"Area of rectange : "<<rt->area()<<"\n";
     std::cout<<"Area of rectange 2nd : "<<rt1->area()<<"\n";
     std::cout<<rt.use_count();
-    std::cout<<"Hiii"<<endl;
+    std::cout<<"Hiii"<<std::endl;
 
     return 0;
 }
